@@ -17,7 +17,7 @@ body{
 	background:#FFFFFF;
 }
 .banner{
-	background: url(../images/1.jpg) no-repeat 0px 0px;
+	background: url(../images/1.png) no-repeat 0px 0px;
     background-size: cover;
 }
 .agileinfo-dot{
@@ -685,7 +685,7 @@ ul.simplefilter {
 /*-- //model --*/
 /*-- testimonial --*/
 .testimonial{
-	background:url(../images/1.jpg) no-repeat 0px 0px;
+	background:url(../images/1.png) no-repeat 0px 0px;
 	background-size:cover;
 }
 .testimonial-dot{
